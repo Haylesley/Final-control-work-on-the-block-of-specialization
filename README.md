@@ -50,3 +50,7 @@
 блоке try-with-resources. Нужно бросить исключение, если работа с объектом
 типа счетчик была не в ресурсном try и/или ресурс остался открыт. Значение
 считать в ресурсе try, если при заведения животного заполнены все поля.
+
+# Решение
+1-12 https://github.com/Haylesley/Final-control-work-on-the-block-of-specialization/blob/main/linux_commands.md
+Программа https://github.com/Haylesley/Final-control-work-on-the-block-of-specialization/tree/main/Final/src
